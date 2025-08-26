@@ -1,7 +1,8 @@
 A very lightweight AFK placeholder.<br>
 Set `player-idle-timeout` to 0 in `server.properties`.<br>
 Otherwise, there's no point in using this expansion.<br><br>
-This is a PlaceholderAPI expansion! Edit it in PlaceholderAPI's config.yml!
+This is a PlaceholderAPI expansion! Edit it in PlaceholderAPI's config.yml!<br>
+The placeholder is `%afk_is%`
 ```
 afk:
     afk-yes: <green>yes</green>
